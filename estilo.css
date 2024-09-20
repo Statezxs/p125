@@ -1,0 +1,97 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+.banner img{
+     width: 100%;
+}
+body{
+     font-family: Arial, sans-serif;
+     background-color: #f5f5f5;
+     color: #333;
+}
+
+.cabeçalho{
+     background-color: #4e2a91;
+     color: white;
+     padding: 20px;
+     text-align: center;
+}
+.cabeçalho{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.cabeçalho2{
+     text-align: center;
+     padding-top: 20px;
+     padding-bottom: 20px;    
+}
+.logo{
+     width: 70px;
+     height: 40px;
+}
+.banner{
+     width: 100%;
+     height: auto;
+}
+.sobre h2{
+   text-align: center;
+}
+.sobre{
+     padding: 20px;
+     padding-left: 25%;
+     padding-right: 25%;
+     text-align: justify;
+}
+.sobre p, .p1{
+     padding-top: 20px;
+}
+.p1{
+     font-weight: bold;
+     color: #4e2a91;
+}
+.Jogos p{
+     padding: 20px;
+     padding-left: 25%;
+     padding-right: 25%;
+     text-align: justify;
+}
+.Jogos{
+     text-align: center;
+}
+
+
+.rodape{
+     background-color: #4e2a91;
+     color: white;
+     text-align: center;
+     padding: 10px 0;
+}
+table{
+     margin: 0 auto;
+     padding-bottom: 30px;
+}
+ 
+ th, td {
+     padding: 10px;
+     text-align: center;
+     border: 1px solid #ccc;
+ }
+ 
+ th {
+     background-color: #4e2a91;
+     color: white;
+ }
+ 
+ td {
+     background-color: #e6d8ff;
+ }
+ 
+ footer {
+     background-color: #4e2a91;
+     color: white;
+     text-align: center;
+     padding: 10px 0;
+ }
